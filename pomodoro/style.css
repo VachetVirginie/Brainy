@@ -1,0 +1,111 @@
+
+/*fonts used*/
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.hide {
+  visibility: hidden;
+}
+
+#change-made {
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 2em;
+  color: #162B45;
+  text-align: center;
+}
+body {
+  background-color: #F7F7F7;
+  font-family: 'Raleway', sans-serif;
+  color: #000;
+  width: 50%;
+  height: 50%;
+  margin-left: 29%;
+  text-align: center;
+}
+
+.btn {
+  border: 1px #1A1A1D solid;
+}
+
+.updown {
+  font-size: 2em;
+  color: #FF1481;
+}
+/*styles heading*/
+h1 {
+  font-family: 'Rock Salt', sans-serif;
+  color: #162B45;
+  text-align: center;
+  
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #162B45;
+}
+
+/*styles work and break buttons*/
+.mainBtns {
+  background-color: #162B45;
+  font-size: 130%;
+  color: #FF1481;
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: bold;
+}
+
+.mainBtns:hover {
+  font-family: 'Century Gothic', sans-serif;
+  background-color:#FF1481;
+  color: #162B45;
+  border: 1px #1A1A1D solid;
+}
+/*styles other buttons*/
+.change {
+    background-color: #162B45;
+    font-size: 130%;
+    color: #FF1481;
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: bold;
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: bold;
+    border: 1px #1A1A1D solid;
+    font-size: 150%;
+    margin: 0.5%;
+}
+
+.change:hover {
+  background-color: #FF1481;
+  color: #162B45;
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: bold;
+  border: 1px #1A1A1D solid;
+}
+/*styles output area*/
+#output {
+  border: none;
+  height: 75px;
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 4em;
+  margin-bottom: 20px;
+  color: #4E4E50;
+}
+
+.fa {
+  color: #162B45;
+}
+
+.fa:hover {
+  color: #FF1481;
+}
+
+#info:hover {
+  color: #FF1481;
+}
+
+#work-session, #break-session {
+  font-family: 'Century Gothic', sans-serif;
+  color: #162B45;
+  font-size: 2em;
+}
+
