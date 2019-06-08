@@ -2585,13 +2585,13 @@ ul {
 }
 
 /* line 87, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
-.menu_fixed {
+/* .menu_fixed {
   position: fixed;
   z-index: 9999 !important;
   width: 100%;
   background-color: #e614ff;
   top: 0;
-}
+} */
 
 /* line 94, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
 .menu_fixed .main-menu-item ul li a {
@@ -4040,6 +4040,7 @@ ul {
   border-radius: 5px;
   -webkit-transition: 0.6s;
   transition: 0.6s;
+  margin-top: 2%;
 }
 
 @media (max-width: 576px) {
